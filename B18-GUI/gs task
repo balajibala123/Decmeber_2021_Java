@@ -1,0 +1,17 @@
+//Muthuramalingam
+Muthuramalingam says:1. Create a class called GroceryShop
+2. Create a static String value name.  
+3. Assign your name for identifier name.  
+4. Create a static int value doorNo.  
+5. Assign 9999 as doorNo.  
+6. Create main method 
+7. Inside main method, create an instance called gs
+8. Using gs, call method 'buy'. 
+9. Pass 100 as argument for method 'buy'. 
+10. return half of the argument passed from method 'buy'. 100/2
+11. Store the returned value as float balance. 
+12. Pass this balance as an argument to a method called 'comeBack'
+13. If needed, create definition for method 'comeBack'
+14. Inside method 'comeBack', print the balance amount. 
+15. Inside method 'comeBack', print name and doorNo.   
+16. Call method 'comeback' using instance 'gs'. 
